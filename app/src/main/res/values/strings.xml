@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Github Users</string>
+    <string name="login_user_name" translatable="false">Login User Name</string>
+    <string name="user_avatar" translatable="false">User Avatar</string>
+    <string name="real_name" translatable="false">Real Name</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="location_icon" translatable="false">Location Icon</string>
+    <string name="company_icon" translatable="false">Company Icon</string>
+    <string name="company" translatable="false">Company</string>
+    <string name="username_icon" translatable="false">Username Icon</string>
+    <string name="settings" translatable="false">settings</string>
+    <string name="favorite_menu" translatable="false">Favorite Menu</string>
+    <string name="detail_menu" translatable="false">Detail Menu</string>
+
+    <!--  Localization Able  -->
+    <string name="language_setting">Language Setting</string>
+    <string name="tab_text_follower">FOLLOWER</string>
+    <string name="tab_text_following">FOLLOWING</string>
+    <string name="searching_query_hint">Search Here</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="alarm_notification">Alarm Notification</string>
+    <string name="notification_message">Let\'s find popular users on Github!</string>
+    <string name="error_no_internet">Network Error : No Internet Connection</string>
+    <string name="error_no_result">Network Error : No Result for This Keyword</string>
+    <string name="network_error">Network Error :</string>
+    <string name="favorite_db_status">Currently no data</string>
+</resources>

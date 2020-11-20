@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--styles.xml-->
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1e88e5</color>
+    <color name="colorAccent">#1e88e5</color>
+
+    <!--collection.xml-->
+    <color name="colorLine">#eeeeee</color>
+    <color name="white">#ffffff</color>
+
+    <!--NotifSettingActivity-->
+</resources>

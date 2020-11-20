@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Localization Able  -->
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="tab_text_follower">DIIKUTI</string>
+    <string name="tab_text_following">MENGIKUTI</string>
+    <string name="searching_query_hint">Cari Disini</string>
+    <string name="notification_setting">Pengaturan Notifikasi</string>
+    <string name="alarm_notification">Notifikasi Alarm</string>
+    <string name="notification_message">Ayo cari user populer di Github!</string>
+    <string name="error_no_internet">Jaringan Error : Tidak Ada Koneksi Internet</string>
+    <string name="error_no_result">Jaringan Error : Tidak Ada Hasil Untuk Kata Kunci Tersebut</string>
+    <string name="network_error">Jaringan Error :</string>
+    <string name="favorite_db_status">Tidak ada data saat ini</string>
+</resources>
