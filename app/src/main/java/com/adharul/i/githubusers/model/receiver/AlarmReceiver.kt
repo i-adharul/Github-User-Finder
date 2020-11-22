@@ -9,6 +9,7 @@ import android.content.Context
 import android.content.Intent
 import android.media.RingtoneManager
 import android.os.Build
+import android.util.Log
 import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
 import com.adharul.i.githubusers.R
@@ -53,6 +54,8 @@ class AlarmReceiver : BroadcastReceiver() {
         } else{
             calendar.timeInMillis
         }
+
+        //Log.i("TIME", "$targetTime & ${System.currentTimeMillis()}")
 
         alarmManager.setInexactRepeating(
             AlarmManager.RTC_WAKEUP,
