@@ -1,7 +1,7 @@
 # Github-User-Finder
 ## About This App
 This app was created when I took the Android Application Fundamentals course to implement Intent, Parcelable, RecyclerView, SearchView, TabLayout, Localization, Connection to Web API, JSON Parsing, MVVM, Alarm Manager, Content Provider, Pending Intent, and Data Storage Using SQLite.
-This app displays a list of Github user along with their details. The data to be displayed is [GithubAPI](https://docs.github.com/en/free-pro-team@latest/rest) data.
+This app displays a list of Github user along with their details. The data displayed is obtained via the [Github API](https://docs.github.com/en/free-pro-team@latest/rest).
 
 App features:
 -	User Searching
